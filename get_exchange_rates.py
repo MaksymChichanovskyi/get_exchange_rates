@@ -2,7 +2,6 @@ import argparse
 import json
 import random
 import requests
-import time
 from datetime import datetime
 
 API_URL = "https://api.exchangerate-api.com/v4/latest/USD"
